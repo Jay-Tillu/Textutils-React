@@ -1,24 +1,21 @@
 body {
-  background-color: #120E43;
+  background-color: #120e43;
   color: aliceblue;
 }
 
 .btn {
-  background-color: #E8BD0D;
+  background-color: #e8bd0d;
   color: black;
-  border-color: #E8BD0D;
+  border-color: #e8bd0d;
 }
 
-
 .btn:hover {
-  background-color: #DDD101;
+  background-color: #ddd101;
   color: black;
-  border-color: #DDD101;
-
+  border-color: #ddd101;
 }
 
 .App {
-  
   text-align: center;
 }
 
